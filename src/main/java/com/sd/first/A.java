@@ -9,7 +9,7 @@ enum AEnum {
 			"505",
 			"Unable to initialise request/response class. May be zero argument constructor is missing."), IO_EXCEPTION(
 			"506",
-			"IO exception while creating object of request/response class.");
+			"IO exception while creating instance of request/response class.");
 
 	private String code;
 	private String description;
